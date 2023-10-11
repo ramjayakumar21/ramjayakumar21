@@ -6,6 +6,8 @@ Welcome to my GitHub account! Some important facts about me:
 - Third-year Computer Science student at the University of British Columbia
 - Previously a Full Stack Developer at Korotu Technology
 - Interested in Embedded Development, Web Development, Data Science, and Infrastructure Management
+
+Feel free to check out my GitHub projects and for a more descriptive story check out my personal site!
   
 
 <p align="center">

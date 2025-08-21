@@ -4,7 +4,7 @@ Welcome to my GitHub account! Some important facts about me:
 
 - Born and raised in Vancouver, BC
 - Fourth-year Computer Science student at the University of British Columbia
-- Previously a Full Stack Developer at Korotu Technology, currently working as a Software Developer Intern @ SAP
+- Previously at Korotu, SWE Intern @ SAP, Embedded SWE Intern @ Tesla, and now SWE Intern at Amazon!
 - Software Team Lead on UBC Uncrewed Aircraft Systems, an engineering design team that makes drones!
 - Interested in Embedded Development, Web Development, Data Science, and Infrastructure Management
 
